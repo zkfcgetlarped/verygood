@@ -1,0 +1,1 @@
+ALTER TABLE public.players ADD COLUMN withdrawals_banned boolean NOT NULL DEFAULT false;
